@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Конец печени</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_account">аккаунт</string>
+    <string name="reviews">отзывы</string>
+    <string name="user_name">имя</string>
+    <string name="feedback">напишите свой отзыв</string>
+    <string name="button_send">добавить отзыв</string>
+    <string name="save">сохранить</string>
+
+
+
+</resources>
